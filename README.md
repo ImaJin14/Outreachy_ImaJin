@@ -1,1 +1,6 @@
-# Outreachy_ImaJin_2022
+# Interested in participating in the selected project(Python packaging for land sector dataset analysis)
+</hr>
+
+Climate change has been detrimental to various periodic cycles which have played important roles in the survival of societies. The sector I wish to explore is the farming sector wherein weather changes have resulted in financial loss for farmers but also affected yield. The Northwest region of Nigeria is an agricultural source of livelihood. Nigeria is made up of two seasons <i>rainy season(April-November) and dry season(December to march)</i><br>
+In recent times, the rains come rather early and are followed by high temperatures. This is as a result of climate change and as a result farmers who plant during the first rains always have to replant when the rains are back. In other areas of the country we have extremely high temperatures which are not good for crop growth.<br>
+With the seasonal transitions, it makes farming difficult as there comes the violent winds which can lead to crop damages. Owing to such consequences in a country which it has important biodiversity and always self sufficient, I wish to research this field and innovate intelligent systems to gain better understanding and insight to climate change patterns. My contributions to this project and Moja global will provide me with an innovative platform to gain the experience in the fields of AI, data science and its use in climate change. 
